@@ -23,7 +23,6 @@ wheels/
 *.egg
 __pycache__/
 *.pyc
-uploads/
 
 # Django
 *.log
