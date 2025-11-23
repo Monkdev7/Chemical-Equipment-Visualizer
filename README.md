@@ -32,17 +32,6 @@ A **hybrid web and desktop application** for visualizing and analyzing chemical 
 - **Authentication support**
 - **Automatic data validation**
 
-## 📸 Screenshots
-
-### Upload Interface
-![Upload](screenshot-2025-11-21-215213.png)
-
-### Dashboard View
-![Dashboard](screencapture-whimsical-souffle-455c6c-netlify-app-2025-11-21-21_54_04.png)
-
-### Desktop View
-![Desktop](Desktop.png)
-
 ## 🛠️ Tech Stack
 
 | Layer | Technology | Purpose |
