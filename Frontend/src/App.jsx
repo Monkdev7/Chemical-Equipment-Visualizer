@@ -5,7 +5,7 @@ import {
 } from 'lucide-react';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, PieChart, Pie, Cell, ResponsiveContainer, LineChart, Line } from 'recharts';
 
-const API_BASE_URL = 'http://localhost:8000/api';
+const API_BASE_URL = 'https://chemical-equipment-parameter-visualizer-7ckc.onrender.com/api';
 
 function App() {
   const [sidebarOpen, setSidebarOpen] = useState(true);
